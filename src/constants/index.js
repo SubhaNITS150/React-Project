@@ -46,15 +46,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Learning Backend",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Competitive Programmer",
       icon: creator,
     },
   ];
@@ -117,54 +117,54 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      company_name: "NIT-Silchar",
+      icon: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1720794319/wuk5kvddessaghakqdva.png',
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Jan 2024 - Current",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Collaborating with UI/UX members to create and implement the design with exact prototype.",
+        "Implementing responsive design and making it adaptable to every screens."
+        
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Competitive Programming",
+      company_name: "NIT-Silchar",
+      icon: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1720794911/qmnxyrfzv6cqzy4c80gv.png',
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Jan 2024 - Current",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Learning Data Structures and Algorithms necessary for Competitive Programming.",
+        "Participating in Competitive Programming contests conducted by Codeforces and Atcoder.",
+        "Have a rating of 800 in codeforces.",
+        
       ],
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
+      company_name: "NITS-MUN",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Jul 2023 - Current",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing the NITS-MUN current website with technical team.",
+        "Collaborating with UI/UX members to create the website.",
+        "Gaining expertise on Javascript Frameworks like reactjs, next js.",
+        
       ],
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      company_name: "",
+      icon: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1720795354/etajnxa4ggb0cei9h3lg.png',
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Apr 2024 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Looking to learn backend using express.js.",
+        "Participated in various hackathons organised by college and other insitutuions.",
+        "Looking to learn android development.",
+      
       ],
     },
   ];
@@ -198,67 +198,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "DOUVT Hub",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to search, for any doubts and instant solution in the form of text, video is given by an expert.",
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
         },
         {
           name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javascript",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1720770815/ymjmhdmjfginkkc00rab.png',
+      source_code_link: "https://github.com/SubhaNITS150/DouVT-Hub",
+    },
+    {
+      name: "Restaurant Wesbite",
+      description:
+        "Web application that enables users to search for food items and book their orders to enjoy premium meals and dinner.",
+      tags: [
+        {
+          name: "html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1720770023/cxao50i6kwyjvzamwcbw.png',
+      source_code_link: "https://github.com/SubhaNITS150/Restaurant_Website",
+    },
+    {
+      name: "3D Portfolio",
+      description:
+        "A 3D portfolio project built after learning Three js and implementing cool animations from aceternity ui and framer motion.",
+      tags: [
+        {
+          name: "reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1720770761/bnqcvda2272bimpzuuas.png',
+      source_code_link: "https://github.com/SubhaNITS150/React-Project",
     },
   ];
   
