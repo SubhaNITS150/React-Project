@@ -167,6 +167,19 @@ import {
       
       ],
     },
+    {
+      title: "Junior Flutter Developer",
+      company_name: "Google Developers Group On Campus, NIT Silchar",
+      icon: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1731601822/GDGC_logo_wpgfwv.jpg',
+      iconBg: "#E6DEDD",
+      date: "Sep-2024 - Present",
+      points: [
+        "Learning and doing projects in Flutter.",
+        "Diving into mobile applications and creating amazing UI.",
+        "Learning backend using Dart Programming Language.",
+      
+      ],
+    },
   ];
   
   const testimonials = [
@@ -259,6 +272,31 @@ import {
       ],
       image: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1720770761/bnqcvda2272bimpzuuas.png',
       source_code_link: "https://github.com/SubhaNITS150/React-Project",
+    },
+    {
+      name: "ScreenSage",
+      description:
+        "Hackathon Project, An amazing web application designed to reduce the screen time of children.",
+      tags: [
+        {
+          name: "reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "nlp",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "sass",
+          color: "green-text-gradient",
+        },
+      ],
+      image: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1731602348/Image2_zh7r30.jpg',
+      source_code_link: "https://github.com/deepanshu089/NH-Directionless",
     },
   ];
   
