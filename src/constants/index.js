@@ -298,6 +298,31 @@ import {
       image: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1731602348/Image2_zh7r30.jpg',
       source_code_link: "https://github.com/deepanshu089/NH-Directionless",
     },
+    {
+      name: "Smart Banking Management System",
+      description:
+        "A CLI project based on Object Oriented Programming Language which has very cool features of a smart online bank.",
+      tags: [
+        {
+          name: "C++",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "oops",
+          color: "green-text-gradient",
+        },
+        {
+          name: "excel",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "iomanip",
+          color: "green-text-gradient",
+        },
+      ],
+      image: 'https://res.cloudinary.com/dludtk5vz/image/upload/v1742836073/Screenshot_ku9z6l.jpg',
+      source_code_link: "https://github.com/SubhaNITS150/Smart-Banking-Management-System",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
